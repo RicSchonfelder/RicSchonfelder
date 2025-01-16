@@ -8,7 +8,7 @@ Atualmente trabalho como videomaker e piloto de drone, com experiência em captu
 
 ## Estilo de Vida e Gostos
 - Valorizo abordagens práticas e acessíveis em minhas iniciativas, sempre focando em resultados eficientes.
-- Tenho um grande interesse por contextualizar conceitos e compreender detalhes culturais, como as diferenças entre palavras e expressões relacionadas a bares, cafés e outros estabelecimentos ao redor do mundo.
+  
 
 ## Sistemas que gosto de operar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" loading="lazy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" loading="lazy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" loading="lazy" width="40" height="40" />
